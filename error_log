@@ -1,0 +1,24 @@
+[16-Jan-2016 22:20:00 UTC] PHP Warning:  include(function.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mzcontro/public_html/sei/principal.php on line 2
+[16-Jan-2016 22:20:00 UTC] PHP Warning:  include(function.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mzcontro/public_html/sei/principal.php on line 2
+[16-Jan-2016 22:20:00 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'function.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mzcontro/public_html/sei/principal.php on line 2
+[16-Jan-2016 22:20:00 UTC] PHP Fatal error:  Call to undefined function nocache() in /home/mzcontro/public_html/sei/principal.php on line 3
+[16-Jan-2016 22:23:00 UTC] PHP Fatal error:  Class 'ProductoDAO' not found in /home/mzcontro/public_html/sei/principal.php on line 119
+[23-Jan-2016 20:13:14 UTC] PHP Fatal error:  Cannot redeclare SeiDAO::obtenerMenu() in /home/mzcontro/public_html/sei/SeiDAO.class.php on line 40
+[23-Jan-2016 20:14:18 UTC] PHP Fatal error:  Cannot redeclare SeiDAO::obtenerMenu() in /home/mzcontro/public_html/sei/SeiDAO.class.php on line 40
+[23-Jan-2016 20:14:20 UTC] PHP Fatal error:  Cannot redeclare SeiDAO::obtenerMenu() in /home/mzcontro/public_html/sei/SeiDAO.class.php on line 40
+[23-Jan-2016 21:56:59 UTC] PHP Fatal error:  Cannot redeclare SeiDAO::obtenerMenu() in /home/mzcontro/public_html/sei/SeiDAO.class.php on line 40
+[23-Jan-2016 22:29:25 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mzcontro/public_html/sei/principal.php:11) in /home/mzcontro/public_html/sei/cab_pagina.php on line 1
+[23-Jan-2016 22:33:35 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mzcontro/public_html/sei/principal.php:11) in /home/mzcontro/public_html/sei/cab_pagina.php on line 1
+[30-Jan-2016 02:05:46 UTC] PHP Warning:  require_once(ProductoDAO.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mzcontro/public_html/sei/lateral.php on line 2
+[30-Jan-2016 02:05:46 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ProductoDAO.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mzcontro/public_html/sei/lateral.php on line 2
+[30-Jan-2016 04:19:38 UTC] PHP Fatal error:  Class 'SeiDAO' not found in /home/mzcontro/public_html/sei/cab_pagina.php on line 23
+[26-Feb-2016 00:28:19 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mzcontro/public_html/sei/principal.php:11) in /home/mzcontro/public_html/sei/cab_pagina.php on line 1
+[08-Mar-2016 10:34:15 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ';' or '{' in /home/mzcontro/public_html/sei/SeiDAO.class.php on line 184
+[08-Mar-2016 10:35:00 UTC] PHP Fatal error:  Call to undefined method SeiDAO::obtenerListaUsuario() in /home/mzcontro/public_html/sei/crear_tarea.php on line 120
+[08-Mar-2016 10:35:11 UTC] PHP Fatal error:  Call to undefined method SeiDAO::obtenerListaUsuario() in /home/mzcontro/public_html/sei/crear_tarea.php on line 120
+[10-Mar-2016 03:41:34 UTC] PHP Fatal error:  Class 'ProductoDAO' not found in /home/mzcontro/public_html/sei/listado_tarea.php on line 77
+[11-Mar-2016 03:26:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mzcontro/public_html/sei/SeiDAO.class.php on line 319
+[11-Mar-2016 03:27:18 UTC] PHP Fatal error:  Class 'ProductoDAO' not found in /home/mzcontro/public_html/sei/listado_tarea.php on line 77
+[11-Mar-2016 03:38:23 UTC] PHP Fatal error:  Call to a member function obtenerCodigos() on a non-object in /home/mzcontro/public_html/sei/listado_tarea.php on line 166
+[11-Mar-2016 03:48:52 UTC] PHP Fatal error:  Call to undefined method Tareas::substr() in /home/mzcontro/public_html/sei/listado_tarea.php on line 206
+[11-Mar-2016 04:00:14 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mzcontro/public_html/sei/crear_tarea.php on line 13
